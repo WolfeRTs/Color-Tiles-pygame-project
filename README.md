@@ -21,7 +21,7 @@ When the timer reaches zero the player is presented with their final score and a
 ## Project resources
 The game is done entirely on Python 3.10 with 2 additional modules:
 - Pygame - [Documentation](https://www.pygame.org/docs/)
-- cx_Freeze - [Documentation](https://cx-freeze.readthedocs.io/en/stable/index.html)
+- cx_Freeze (for the executable) - [Documentation](https://cx-freeze.readthedocs.io/en/stable/index.html)
 
 The images have been custom made.
 
