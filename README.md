@@ -30,4 +30,4 @@ Sounds used from:
 - [YouTube - Hyoshigi](https://www.youtube.com/watch?v=gPhgrab2OIg)
 
 ## Download the game in executable form
-Link (zip file) - [Color Tiles v0.1](https://github.com/WolfeRTs/Color-Tiles-pygame-project/blob/main/executable/Color%20Tiles%20v0.1%20executable.zip)
+Link (zip file) - [Color Tiles v0.1](https://github.com/WolfeRTs/Color-Tiles-pygame-project/raw/main/executable/Color%20Tiles%20v0.1%20executable.zip)
